@@ -1,1 +1,6 @@
-my current knowledge in html css and js
+my current knowledge in html css and js is on a scale from 1-10,
+where 10 is "i created html, css and js" and 0 is "i have no idea what
+these letter mean", i am maybe at a 4. or 3. 
+
+Im very much looking forward to learn everything there is to know about these
+techs, aswell as during these nine days learn how to webdevelop.
